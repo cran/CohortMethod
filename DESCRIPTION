@@ -2,8 +2,8 @@ Package: CohortMethod
 Type: Package
 Title: Comparative Cohort Method with Large Scale Propensity and
         Outcome Models
-Version: 6.0.2
-Date: 2026-05-07
+Version: 6.0.3
+Date: 2026-06-22
 Authors@R: c(
 	person("Martijn", "Schuemie", , "schuemie@ohdsi.org", role = c("aut", "cre")),
 	person("Marc", "Suchard", role = c("aut")),
@@ -39,11 +39,11 @@ Suggests: testthat, pROC, knitr, rmarkdown, Eunomia, zip, withr,
 SystemRequirements: Java
 LinkingTo: Rcpp
 NeedsCompilation: yes
-RoxygenNote: 7.3.3
 Encoding: UTF-8
-Packaged: 2026-05-08 09:50:16 UTC; schuemie
+Config/roxygen2/version: 8.0.0
+Packaged: 2026-06-22 06:29:01 UTC; schuemie
 Author: Martijn Schuemie [aut, cre],
   Marc Suchard [aut],
   Patrick Ryan [aut]
 Repository: CRAN
-Date/Publication: 2026-05-08 11:32:11 UTC
+Date/Publication: 2026-06-22 07:00:02 UTC
